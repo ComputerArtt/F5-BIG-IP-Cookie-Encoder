@@ -10,5 +10,5 @@ http://www.sertankolat.com/2011/12/f5-big-ip-cookie-tespiti-ve-desifreleme.html
 
 # Kullanımı
 
-python f5-cookie-encoding ip_adresi port
+python f5-cookie-encoder ip_adresi port
 
